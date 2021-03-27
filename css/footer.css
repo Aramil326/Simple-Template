@@ -2,7 +2,7 @@
     margin-top: 50px;
 }
 
-.footer__top {
+.footer__contacts {
     background: #445162;
 }
 
@@ -118,4 +118,5 @@ button {
     line-height: 24px;
     text-align: center;
     padding: 13px 0 13px;
+    background: #F5F5F5;
 }
